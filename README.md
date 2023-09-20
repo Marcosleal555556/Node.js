@@ -27,9 +27,6 @@ O prompt irá sinalizar que o ambiente não está mais ativo
 
 3.Abra um terminal, ative o NodeJs de sua preferência, digite:
 source ./caminho_do_nodejs_env/bin/activate
-Instalar o Node-Red, digite:
-npm install -g node-red
-Aguarde a instalação do Node-Red
 
 
 4.Abrir o arquivo utilizando:
